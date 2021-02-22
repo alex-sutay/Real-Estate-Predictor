@@ -1,0 +1,2 @@
+The data in the file "realestate_data.txt" is formatted as:
+price,bedrooms,bathrooms,sqft
